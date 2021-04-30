@@ -1,1 +1,1 @@
-# Gradient-Descent-Concept-encapsulation.
+Introduction to gradient descent in machine learning.
